@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 600px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.one {
+    background-color: rgb(220, 174, 204);
+    border: 2px solid rgb(64, 6, 91);
+    padding: 32px;
+    margin: 12px;
+}
+
+.two {
+    background-color: rgb(91, 181, 199);
+    border: 2px solid rgb(188, 22, 200);
+    margin-bottom: 48px;
+}
+
+.three {
+    background-color: peachpuff;
+    border: 2px solid brown;
+    width: 200px;
+    padding: 32px;
+    margin-left: auto;
+}
